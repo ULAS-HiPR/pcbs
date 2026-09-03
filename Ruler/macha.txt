@@ -1,0 +1,4 @@
+Info: Output directory '/Users/dervlagargan/Downloads/ruler' created.
+Plotted to '/Users/dervlagargan/Downloads/ruler/Ruler-B_Silkscreen.svg'.
+Info: Done.
+Info: Done.

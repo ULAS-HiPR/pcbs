@@ -1,0 +1,11 @@
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-F_Cu.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-B_Cu.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-F_Paste.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-B_Paste.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-F_Silkscreen.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-B_Silkscreen.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-F_Mask.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-B_Mask.gbr'.
+Plotted to '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/dervlagargan/Documents/Projects/HiPR/Ruler/Ruler-job.gbrjob'.
+Info: Done.

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adafruit_spi_display")(type "KiCad")(uri "/Users/dervlagargan/Downloads/display/adafruit_spi_display.kicad_sym")(options "")(descr ""))
+)
